@@ -1,0 +1,247 @@
+! Title: PureRules-Phone
+! Last modified: 26 April 2020 03:12 UTC
+! Homepage: https://github.com/PureMaster/PureRules
+!
+baidu.com##div.callicon-wrap
+baidu.com##div#login-wraps
+baidu.com##i#ns-square-point.ns-square-point
+baidu.com###header > div:last-child
+baidu.com##div#tab_news_1.tab_news
+baidu.com##div.egg-bubble
+baidu.com##div.mkt_egg_showToast_container__3o_c5.egg_tips__1mX39
+baidu.com###page-copyright > div:last-child
+baidu.com###page-copyright > div:nth-child(0)
+baidu.com###page-copyright > div:nth-child(1)
+baidu.com###page-copyright > div:nth-child(2)
+baidu.com###page-copyright > div:nth-child(3)
+baidu.com###page-copyright > div:nth-child(4)
+baidu.com###page-copyright > div:nth-child(5)
+baidu.com###page-copyright > div:nth-child(6)
+baidu.com###page-copyright > div:nth-child(7)
+baidu.com###page-copyright > div:nth-child(8)
+baidu.com###page-copyright > div:nth-child(9)
+baidu.com###page-copyright > div:nth-child(10)
+baidu.com###page-copyright > div:nth-child(11)
+baidu.com###page-copyright > div:nth-child(12)
+baidu.com###page-copyright > div:nth-child(13)
+baidu.com###page-copyright > div:nth-child(14)
+baidu.com###page-copyright > div:nth-child(15)
+baidu.com###page-copyright > div:nth-child(16)
+baidu.com###page-copyright > div:nth-child(17)
+baidu.com###page-copyright > div:nth-child(18)
+baidu.com###page-copyright > div:nth-child(19)
+baidu.com###page-copyright > div:nth-child(20)
+baidu.com###page-copyright > div:nth-child(21)
+baidu.com###page-copyright > div:nth-child(22)
+baidu.com###page-copyright > div:nth-child(23)
+baidu.com###page-copyright > div:nth-child(24)
+baidu.com###page-copyright > div:nth-child(25)
+baidu.com###page-copyright > div:nth-child(26)
+baidu.com###page-copyright > div:nth-child(27)
+baidu.com###page-copyright > div:nth-child(28)
+baidu.com###page-copyright > div:nth-child(29)
+baidu.com###page-copyright > div:nth-child(30)
+baidu.com###page-copyright > div:nth-child(31)
+baidu.com###page-copyright > div:nth-child(32)
+baidu.com###page-copyright > div:nth-child(33)
+baidu.com###page-copyright > div:nth-child(34)
+baidu.com###page-copyright > div:nth-child(35)
+baidu.com###page-copyright > div:nth-child(36)
+baidu.com###page-copyright > div:nth-child(37)
+baidu.com###page-copyright > div:nth-child(38)
+baidu.com###page-copyright > div:nth-child(39)
+baidu.com###page-copyright > div:nth-child(40)
+baidu.com###page-copyright > div:nth-child(41)
+baidu.com###page-copyright > div:nth-child(42)
+baidu.com###page-copyright > div:nth-child(43)
+baidu.com###page-copyright > div:nth-child(44)
+baidu.com###page-copyright > div:nth-child(45)
+baidu.com###page-copyright > div:nth-child(46)
+baidu.com###page-copyright > div:nth-child(47)
+baidu.com###page-copyright > div:nth-child(48)
+baidu.com###page-copyright > div:nth-child(49)
+baidu.com###page-copyright > div:nth-child(50)
+baidu.com###page-copyright > div:nth-child(51)
+baidu.com###page-copyright > div:nth-child(52)
+baidu.com###page-copyright > div:nth-child(53)
+baidu.com###page-copyright > div:nth-child(54)
+baidu.com###page-copyright > div:nth-child(55)
+baidu.com###page-copyright > div:nth-child(56)
+baidu.com###page-copyright > div:nth-child(57)
+baidu.com###page-copyright > div:nth-child(58)
+baidu.com###page-copyright > div:nth-child(59)
+baidu.com###page-copyright > div:nth-child(60)
+baidu.com###page-copyright > div:nth-child(61)
+baidu.com###page-copyright > div:nth-child(62)
+baidu.com###page-copyright > div:nth-child(63)
+baidu.com###page-copyright > div:nth-child(64)
+baidu.com###page-copyright > div:nth-child(65)
+baidu.com###page-copyright > div:nth-child(66)
+baidu.com###page-copyright > div:nth-child(67)
+baidu.com###page-copyright > div:nth-child(68)
+baidu.com###page-copyright > div:nth-child(69)
+baidu.com###page-copyright > div:nth-child(70)
+baidu.com###page-copyright > div:nth-child(71)
+baidu.com###page-copyright > div:nth-child(72)
+baidu.com###page-copyright > div:nth-child(73)
+baidu.com###page-copyright > div:nth-child(74)
+baidu.com###page-copyright > div:nth-child(75)
+baidu.com###page-copyright > div:nth-child(76)
+baidu.com###page-copyright > div:nth-child(77)
+baidu.com###index-card > div:nth-child(4)
+baidu.com##div.location-info
+baidu.com##A[href*='iwenjuan.baidu.com']
+baidu.com##.blank-frame
+baidu.com##article.c-container._1deN2.med-invoke-box
+dict.baidu.com##a.app-promotion-icon
+dict.baidu.com##div#download-wrapper.result.c-result
+dict.baidu.com##section#download-wrapper.poem-detail-item
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(0) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(1) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(2) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(3) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(4) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(5) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(6) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(7) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(8) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(9) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(10) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(11) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(12) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(13) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(14) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(15) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(16) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(17) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(18) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(19) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(20) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(21) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(22) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(23) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(24) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(25) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(26) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(27) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(28) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(29) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(30) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(31) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(32) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(33) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(34) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(35) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(36) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(37) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(38) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+dict.baidu.com###results > section.c-result.c-row-tile:nth-child(39) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com##a.app-promotion-icon
+hanyu.baidu.com##div#download-wrapper.result.c-result
+hanyu.baidu.com##section#download-wrapper.poem-detail-item
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(0) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(1) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(2) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(3) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(4) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(5) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(6) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(7) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(8) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(9) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(10) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(11) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(12) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(13) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(14) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(15) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(16) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(17) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(18) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(19) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(20) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(21) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(22) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(23) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(24) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(25) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(26) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(27) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(28) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(29) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(30) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(31) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(32) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(33) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(34) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(35) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(36) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(37) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(38) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+hanyu.baidu.com###results > section.c-result.c-row-tile:nth-child(39) > div.c-container.card > div.detail-footer:last-child > div.detail-footer-item:last-child > a.detail-feedback > img:last-child
+https://dict.baidu.com/zici/asset/img/writing.png
+https://hanyu.baidu.com/zici/asset/img/writing.png
+http://e.hiphotos.baidu.com/video/pic/item/5fdf8db1cb1349547873fd32594e9258d1094a72.png
+http://b.hiphotos.baidu.com/video/pic/item/6609c93d70cf3bc752d31d11df00baa1cc112a78.png
+https://e.hiphotos.baidu.com/video/pic/item/5fdf8db1cb1349547873fd32594e9258d1094a72.png
+https://b.hiphotos.baidu.com/video/pic/item/6609c93d70cf3bc752d31d11df00baa1cc112a78.png
+https://iknowpc.bdimg.com/static/question-new/widget/ask/replyer/img/wld-exp-btn-hb.f91c70d.png
+https://fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/domain/img/tag_727e205.png
+https://fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/translang/img/langs_2x_cae270a.png
+https://dgss2.bdstatic.com/5eR1dDebRNRTm2_p8IuM_a/her/static/indexnew/component/feednews/new.818feaf.png
+https://iknowpc.bdimg.com/static/question-new/widget/ask/replyer/img/wld-exp-btn-hb.f91c70d.png
+https://gss0.bdstatic.com/7051cy89RcgCncy6lo7D0j9wexYrbOWh7c50/pc-shop/menu-new-icon.svg
+zhidao.baidu.com##button.task-list-button
+zhidao.baidu.com##span.icon-reward
+zhidao.baidu.com##span.toggle-header-reward
+zhidao.baidu.com##div.gvnsz5eaba5.icon-bdad
+zhidao.baidu.com##div.gvnsz5eaba6.icon-bdad
+zhidao.baidu.com##li.menu-right-list-item.zhidao-app
+baike.baidu.com##div#J-super-layer-promote.super-layer-promote.square.squareAni
+baike.baidu.com##i.spot
+so.com##div#bd.i-bd
+so.com##div#mso-fixed-tip
+so.com###hd > div.in > div:first-child
+360kuai.com##div.swaper.browser-banner
+360kuai.com##div.share-footer-new
+360kuai.com##div.openapp-btn-long
+360kuai.com##span.openapp-btn
+360kuai.com##div#share-related
+360kuai.com##span.follow_btn.share_follow_btn
+m.look.360.cn##div.swaper.browser-banner
+m.look.360.cn##div.share-footer-new
+m.look.360.cn##div.openapp-btn-long
+m.look.360.cn##span.openapp-btn
+m.look.360.cn##div#share-related
+m.look.360.cn##span.follow_btn.share_follow_btn
+m.news.so.com##div.swaper.browser-banner
+m.news.so.com##div.share-footer-new
+m.news.so.com##div.openapp-btn-long
+m.news.so.com##span.openapp-btn
+m.news.so.com##div#share-related
+m.news.so.com##span.follow_btn.share_follow_btn
+sogou.com##div.index-carousel
+sogou.com##div.index-tab
+sogou.com##div#indexAppOne.vr-recommend.recommend-pop
+sogou.com##div.index-weather
+sogou.com##div#input-voice.rese-box
+sogou.com##div.vr-recommend
+sogou.com##div.query-flex
+sogou.com##DIV[class='img-flex person-layout layout-arrow border-top js_baitianyuEducationAppBanner']
+wenwen.sogou.com##div.sgww-xcx
+bing.com##div#BottomAppPro.BottomAppPro
+chinaso.com##div.w-container-bottom
+chinaso.com##div.w-weather
+chinaso.com##div.chinaso_weixin
+sm.cn##div.r-wrap
+mijisou.com##div#sidebar_results.col-sm-4
+dogedoge.com##.tag-home__item
+dogedoge.com##.js-results-ads
+ecosia.org##div.cta-wrapper
+ecosia.org##div.card-desktop.card-ad.card-top-ad
+ecosia.org##div.result.results-ads.js-ad.card-mobile
+ecosia.org##div.card-desktop.card-ad.card-top-ad
+m.bilibili.com##div.float-bottom-bar
+m.bilibili.com##button.openapp
+m.bilibili.com##div.m-video-float-openapp
+douban.fm##div#appbar

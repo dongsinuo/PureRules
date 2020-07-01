@@ -1,0 +1,345 @@
+! Title: PureRules-Computer
+! Last modified: 22 April 2020 09:24 UTC
+! Homepage: https://github.com/PureMaster/PureRules
+!
+so.com###res_news_flow
+so.com###mohe-softbox
+so.com###so-360finance
+so.com##div#news-card
+so.com###bd_tabnav > nav.skin-text.skin-text-tab:first-child > a:first-child
+so.com##div#so_weather
+so.com###footer > nav:first-child > a:first-child
+so.com###footer > nav:first-child > span:nth-child(2)
+so.com##div#mohe-sad_home.g-mohe
+so.com##div#mohe-biu_webgame_imglist.g-mohe
+so.com##div#mohe-biu_webgame_right.g-mohe
+so.com##div#mohe-webgame.g-mohe
+so.com##div#mohe-biu_webgame_rank.g-mohe
+so.com##div#mohe-relation_soft.g-mohe
+so.com##div.dl-con
+so.com##li#e_map_idea.map_business_con
+so.com##div.mh-qrcode-title
+so.com##.curr-hot-news-card
+so.com##div.mh-box.mh-guess
+so.com##div#nav-others
+so.com##div.mh-all.js-showall
+so.com##.g-aside
+so.com###mohe-kzx_top
+so.com##span.icon
+so.com###mohe-biu_dianshang
+so.com##.inline-recommend
+so.com###mohe-360pic_ext--normal
+so.com##span.icon
+so.com##.js-mod-recommond-center
+wenda.so.com##.mod-recommond, .js-mod-recommond
+wenda.so.com##.mod-bot-flow, .hide, .js-mod-flow
+wenda.so.com##.bottom-fixed
+wenda.so.com##.task-status-contract
+wenda.so.com##.top-search-banner
+wenda.so.com##.mod-detail-normal, .js-detail-guess
+wenda.so.com##.js-attention
+wenda.so.com###left-flow-item
+wenda.so.com##div.left-flow-item
+wenda.so.com##li.left-rec-list.js-left-rec-busi
+wenda.so.com##.left-side-page
+wenda.so.com##.mode-side-text
+news.so.com##div.info-flow
+news.so.com###open_left_flow > svg:last-child
+news.so.com###open_left_flow > div.info-msg-tip:first-child > svg > g:last-child > g
+news.so.com##.js-multi-i-item, .cui-i-rt-txt, .i-item-lm
+news.so.com##.weather-calendar-wrapper
+news.so.com###bd_related
+image.so.com###starlist > div.vertical > ul.section:nth-child(3) > li.cell > div.item > a
+image.so.com###starlist > div.vertical > ul.section:nth-child(4) > li.cell > div.item > a
+image.so.com###starlist > div.vertical > ul.section:last-child > li.cell > div.item > a
+image.so.com##div.item.item_expansion.item_cm.item_cmdisplay
+image.so.com##div.starlist
+map.so.com##.index-bcItemDetail-207c2
+map.so.com##a.index-bcItemDetail-207c2
+map.so.com##div.label-ads
+map.so.com##div.index-ad_panel-77970
+map.so.com##div.AdAlbumList-album_ads-3c11e
+map.so.com###album_scroller_list > ul > li:nth-child(4)
+map.so.com###album_scroller_list > ul > li:nth-child(10)
+map.so.com###album_scroller_list > ul > li:nth-child(16)
+map.so.com###album_scroller_list > ul > li:nth-child(22)
+map.so.com###album_scroller_list > ul > li:nth-child(28)
+map.so.com###album_scroller_list > ul > li:nth-child(34)
+map.so.com###album_scroller_list > ul > li:nth-child(40)
+map.so.com###album_scroller_list > ul > li:nth-child(46)
+map.so.com###album_scroller_list > ul > li:nth-child(52)
+map.so.com###album_scroller_list > ul > li:nth-child(58)
+map.so.com###album_scroller_list > ul > li:nth-child(64)
+map.so.com###album_scroller_list > ul > li:nth-child(70)
+map.so.com###album_scroller_list > ul > li:nth-child(76)
+map.so.com###album_scroller_list > ul > li:nth-child(82)
+map.so.com###album_scroller_list > ul > li:nth-child(88)
+map.so.com###album_scroller_list > ul > li:nth-child(94)
+map.so.com###album_scroller_list > ul > li:nth-child(100)
+map.so.com###album_scroller_list > ul > li:nth-child(106)
+map.so.com###album_scroller_list > ul > li:nth-child(112)
+map.so.com###album_scroller_list > ul > li:nth-child(118)
+map.so.com###album_scroller_list > ul > li:nth-child(124)
+map.so.com###album_scroller_list > ul > li:nth-child(130)
+map.so.com###album_scroller_list > ul > li:nth-child(136)
+map.so.com###album_scroller_list > ul > li:nth-child(142)
+map.so.com###album_scroller_list > ul > li:nth-child(148)
+map.so.com###album_scroller_list > ul > li:nth-child(154)
+map.so.com###album_scroller_list > ul > li:nth-child(160)
+map.so.com###album_scroller_list > ul > li:nth-child(166)
+map.so.com###album_scroller_list > ul > li:nth-child(172)
+map.so.com###album_scroller_list > ul > li:nth-child(178)
+map.so.com###album_scroller_list > ul > li:nth-child(184)
+map.so.com###album_scroller_list > ul > li:nth-child(190)
+map.so.com###album_scroller_list > ul > li:nth-child(196)
+map.so.com###album_scroller_list > ul > li:nth-child(202)
+map.so.com###album_scroller_list > ul > li:nth-child(208)
+map.so.com###album_scroller_list > ul > li:nth-child(214)
+map.so.com###album_scroller_list > ul > li:nth-child(220)
+map.so.com###album_scroller_list > ul > li:nth-child(226)
+map.so.com###album_scroller_list > ul > li:nth-child(232)
+map.so.com###album_scroller_list > ul > li:nth-child(238)
+map.so.com###album_scroller_list > ul > li:nth-child(244)
+map.so.com###album_scroller_list > ul > li:nth-child(250)
+map.so.com###album_scroller_list > ul > li:nth-child(256)
+map.so.com###album_scroller_list > ul > li:nth-child(262)
+map.so.com###album_scroller_list > ul > li:nth-child(268)
+map.so.com###album_scroller_list > ul > li:nth-child(274)
+map.so.com###album_scroller_list > ul > li:nth-child(280)
+map.so.com###album_scroller_list > ul > li:nth-child(286)
+map.so.com###album_scroller_list > ul > li:nth-child(292)
+map.so.com###album_scroller_list > ul > li:nth-child(298)
+map.so.com###album_scroller_list > ul > li:nth-child(304)
+ditu.so.com##.index-bcItemDetail-207c2
+ditu.so.com##a.index-bcItemDetail-207c2
+ditu.so.com##div.label-ads
+ditu.so.com##div.index-ad_panel-77970
+ditu.so.com##div.AdAlbumList-album_ads-3c11e
+ditu.so.com###album_scroller_list > ul > li:nth-child(4)
+ditu.so.com###album_scroller_list > ul > li:nth-child(10)
+ditu.so.com###album_scroller_list > ul > li:nth-child(16)
+ditu.so.com###album_scroller_list > ul > li:nth-child(22)
+ditu.so.com###album_scroller_list > ul > li:nth-child(28)
+ditu.so.com###album_scroller_list > ul > li:nth-child(34)
+ditu.so.com###album_scroller_list > ul > li:nth-child(40)
+ditu.so.com###album_scroller_list > ul > li:nth-child(46)
+ditu.so.com###album_scroller_list > ul > li:nth-child(52)
+ditu.so.com###album_scroller_list > ul > li:nth-child(58)
+ditu.so.com###album_scroller_list > ul > li:nth-child(64)
+ditu.so.com###album_scroller_list > ul > li:nth-child(70)
+ditu.so.com###album_scroller_list > ul > li:nth-child(76)
+ditu.so.com###album_scroller_list > ul > li:nth-child(82)
+ditu.so.com###album_scroller_list > ul > li:nth-child(88)
+ditu.so.com###album_scroller_list > ul > li:nth-child(94)
+ditu.so.com###album_scroller_list > ul > li:nth-child(100)
+ditu.so.com###album_scroller_list > ul > li:nth-child(106)
+ditu.so.com###album_scroller_list > ul > li:nth-child(112)
+ditu.so.com###album_scroller_list > ul > li:nth-child(118)
+ditu.so.com###album_scroller_list > ul > li:nth-child(124)
+ditu.so.com###album_scroller_list > ul > li:nth-child(130)
+ditu.so.com###album_scroller_list > ul > li:nth-child(136)
+ditu.so.com###album_scroller_list > ul > li:nth-child(142)
+ditu.so.com###album_scroller_list > ul > li:nth-child(148)
+ditu.so.com###album_scroller_list > ul > li:nth-child(154)
+ditu.so.com###album_scroller_list > ul > li:nth-child(160)
+ditu.so.com###album_scroller_list > ul > li:nth-child(166)
+ditu.so.com###album_scroller_list > ul > li:nth-child(172)
+ditu.so.com###album_scroller_list > ul > li:nth-child(178)
+ditu.so.com###album_scroller_list > ul > li:nth-child(184)
+ditu.so.com###album_scroller_list > ul > li:nth-child(190)
+ditu.so.com###album_scroller_list > ul > li:nth-child(196)
+ditu.so.com###album_scroller_list > ul > li:nth-child(202)
+ditu.so.com###album_scroller_list > ul > li:nth-child(208)
+ditu.so.com###album_scroller_list > ul > li:nth-child(214)
+ditu.so.com###album_scroller_list > ul > li:nth-child(220)
+ditu.so.com###album_scroller_list > ul > li:nth-child(226)
+ditu.so.com###album_scroller_list > ul > li:nth-child(232)
+ditu.so.com###album_scroller_list > ul > li:nth-child(238)
+ditu.so.com###album_scroller_list > ul > li:nth-child(244)
+ditu.so.com###album_scroller_list > ul > li:nth-child(250)
+ditu.so.com###album_scroller_list > ul > li:nth-child(256)
+ditu.so.com###album_scroller_list > ul > li:nth-child(262)
+ditu.so.com###album_scroller_list > ul > li:nth-child(268)
+ditu.so.com###album_scroller_list > ul > li:nth-child(274)
+ditu.so.com###album_scroller_list > ul > li:nth-child(280)
+ditu.so.com###album_scroller_list > ul > li:nth-child(286)
+ditu.so.com###album_scroller_list > ul > li:nth-child(292)
+ditu.so.com###album_scroller_list > ul > li:nth-child(298)
+ditu.so.com###album_scroller_list > ul > li:nth-child(304)
+baike.so.com##p.waterfall-title.js-waterfall-title
+baike.so.com##script#entry-newsfeed-popup-tmpl
+baike.so.com##div.bottom-wrap
+baike.so.com##div.gallery-left.js-gallery-left
+baike.so.com##div.newsfeed-popup.js-newsfeed-popup
+baike.so.com##div.entry-plus.wrap
+wenku.so.com##div.rt-side
+wenku.so.com##div.side-mod
+wenku.so.com##div.rec-left.hide
+wenku.so.com##.f-list-wrap
+wenku.so.com##.h2
+fanyi.so.com###card_container
+tianqi.so.com###news-side
+tianqi.so.com##div.weather-news
+tianqi.so.com##li.nav-item.curr
+xinzhi.wenda.so.com##div.aside
+xinzhi.wenda.so.com##div.rec-left
+xinzhi.wenda.so.com##div.art-flow
+xinzhi.wenda.so.com##div.mod-interested.js-interested
+xinzhi.wenda.so.com##div.busi-article
+guoxue.baike.so.com##div#J-entry-newsfeed-bottom.mod-common
+guoxue.baike.so.com##div#js-doc-recommand.mod-recommend
+guoxue.baike.so.com##div.right
+360kuai.com##.side-wrapper
+360kuai.com##.modal__wrapper
+360kuai.com##div.article__top_window_ad
+360kuai.com##section.aside.content__block
+360kuai.com##section.aside.recommend.content__block
+360kan.com##div.c-body.g-clear
+360kan.com##div.eb-sidefeedback2-item.eb-sidefeedback2-item-msg.js-msg
+360kan.com##a.btn.btn-sj
+360kan.com##div.b-bannerad.js-bannerad
+360kan.com##div#logo_activity
+360kan.com##div#js-eb-rightbottomad.eb-rightbottomad
+360kan.com##div#js-eb-bottomad.eb-panel
+360kan.com##.b-holidayspec, .b-holidayspec-top, .js-holidayspec-top
+wenku.cyjzzd.com##.mod-bot-flow, .hide, .js-mod-flow
+wenku.cyjzzd.com###js-fixed-rt
+wenku.cyjzzd.com###rt-flow
+wenku.cyjzzd.com##.wk-mod-det
+baidu.com##div.qrcodeCon
+baidu.com###virus-2020 > <pseudo:before>
+baidu.com###setf
+baidu.com###u1 > a.mnav:nth-child(3)
+baidu.com###head > div.s-top-left.s-isindex-wrap:nth-child(3) > a.mnav.c-font-normal.c-color-t:nth-child(2)
+baidu.com###content > h3.new:first-child > sup
+zhidao.baidu.com##button.task-list-button
+zhidao.baidu.com##span.new-icon
+zhidao.baidu.com##li.menu-right-list-item.zhidao-app
+zhidao.baidu.com##span.insertvideobtn-newicon
+zhidao.baidu.com##span.exp-topwld-tip
+haokan.baidu.com##div.adv.skeleton.ec_result
+haokan.baidu.com##div.code.about-list
+wenku.baidu.com##div.vip-card
+wenku.baidu.com##a.reader-extensin
+wenku.baidu.com##b.havenew-ic
+wenku.baidu.com##span.ui-bz-hot-ic
+wenku.baidu.com##div.zsj-toppos
+wenku.baidu.com##span.ic-vip
+wenku.baidu.com##div.coverImg
+tieba.baidu.com##li.tbui_aside_fbar_button.tbui_fbar_down
+tieba.baidu.com##div.region_bright.app_download_box
+tieba.baidu.com##div.aside_region.app_download_box
+music.taihe.com##div#download-clients.clearfix
+music.taihe.com##div.ad
+music.taihe.com##div.ad
+music.taihe.com##div#adMainTopRight
+music.taihe.com##div.module.musician-hot-artist.clearfix
+music.taihe.com##div.panel-item.down-box.qr-box
+hao123.com##i.g_icon
+hao123.com##img.icon-new
+v.baidu.com##div.qrcode
+v.baidu.com##li.bt-mobile
+v.baidu.com##.pcidlepagepopup-xd-wrap
+v.baidu.com##div#bdvideo-adver-left-section.bdvideo-adver-carousel.bdvideo-adver-left.animated
+v.baidu.com##div#bdvideo-adver-right-section.bdvideo-adver-carousel.bdvideo-adver-right.animated
+v.baidu.com##div#qzfcadid.qzfc-ad-wrap
+v.baidu.com###nav > div.nav-inner:first-child > ul.menu-main:first-child > li:nth-child(9) > a > img
+v.baidu.com###nav > div.nav-inner:first-child > ul.menu-main:first-child > li:nth-child(14) > a > img
+http://e.hiphotos.baidu.com/video/pic/item/5fdf8db1cb1349547873fd32594e9258d1094a72.png
+http://b.hiphotos.baidu.com/video/pic/item/6609c93d70cf3bc752d31d11df00baa1cc112a78.png
+https://e.hiphotos.baidu.com/video/pic/item/5fdf8db1cb1349547873fd32594e9258d1094a72.png
+https://b.hiphotos.baidu.com/video/pic/item/6609c93d70cf3bc752d31d11df00baa1cc112a78.png
+https://iknowpc.bdimg.com/static/question-new/widget/ask/replyer/img/wld-exp-btn-hb.f91c70d.png
+https://fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/domain/img/tag_727e205.png
+https://fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/translang/img/langs_2x_cae270a.png
+https://dgss2.bdstatic.com/5eR1dDebRNRTm2_p8IuM_a/her/static/indexnew/component/feednews/new.818feaf.png
+https://iknowpc.bdimg.com/static/question-new/widget/ask/replyer/img/wld-exp-btn-hb.f91c70d.png
+https://gss0.bdstatic.com/7051cy89RcgCncy6lo7D0j9wexYrbOWh7c50/pc-shop/menu-new-icon.svg
+sogou.com##div#QRcode-footer.ft-v1
+sogou.com##div#local-weather.local-weather
+sogou.com##span#user-box-line.line
+sogou.com##a._software_gslink
+sogou.com##p.safe-p
+sogou.com###main > div:nth-child(5) > div.results > div.vrwrap:first-child
+sogou.com##a.down-h
+sogou.com###card-news-right > div.right-ewm:last-child
+sogou.com###epidemicPopup
+sogou.com#@#.tgad-box
+sogou.com##span.new
+sa.sogou.com##.rd-csr__wrapper
+pic.sogou.com##div#hint.side-module.side-hint
+news.sogou.com###hint_container
+chinaso.com##div#chinaso_weather
+chinaso.com##div.special_left
+chinaso.com##div.special_right
+chinaso.com##div.chinaso_app_ewm
+chinaso.com##span#nav_123_link
+chinaso.com##div.indexMain:first-child > div.chinaso-search-box:nth-child(5) > div.mPart:last-child
+chinaso.com##div.nav_box
+mijisou.com##div#sidebar_results.col-sm-4
+dogedoge.com##.tag-home__item
+dogedoge.com##.js-results-ads
+bing.com###dict_ans > div.b_vPanel:first-child > div:last-child
+bing.com##a.bottomTipContainer.b_cards
+bing.com##li.b_ans.b_top.b_topborder
+bing.com##div#b_pole
+bing.com##.ads_dwn, .top_ad
+bing.com###ads_banner > img.rms_img
+bing.com###bnp_hfly
+ecosia.org##.mainline-top
+ecosia.org##.install-popup
+ecosia.org##.btn, .btn-primary, .js-activate-install-box
+ifeng.com###qrCode
+v.ifeng.com##.qrCodeBox-YwrtO1ho
+v.ifeng.com##.erweima-bGrRC2gC
+v.ifeng.com##.headerDown-3Tioyvtl
+v.ifeng.com##div.feng-control-appspread
+v.ifeng.com##div.vDown-H3u6A2Mq
+sohu.com##.groom-read
+sohu.com###articleAllsee
+sohu.com###hot-news
+163.com##.ns_side_qrcode
+news.163.com##.newsapp-qrcode
+news.163.com##.post_recommend
+iciba.com##i.common-top-nav-hot
+iciba.com##.ad-sign
+iciba.com##.sentence
+iciba.com##.cb-downmask
+fy.iciba.com##div.con-wrapper:nth-child(5) > div.trans-container:first-child > div:last-child
+word.iciba.com###main_block > div.header:nth-child(2) > div.h_m.cl > div.h_nav:nth-child(2) > a.jingpai:last-child > img
+dict.youdao.com##.dialog-guide-download, .win-download
+dict.youdao.com###follow
+fanyi.youdao.com##span.tongchuan_new
+fanyi.youdao.com##div.inside__products
+fanyi.youdao.com##div.doc__upload--tip
+fanyi.youdao.com##.rengong__guide, .rengong__guide--nobtn
+translate.google.cn##.app-download-bar
+fanyi.baidu.com###transOtherRight
+fanyi.baidu.com##span.icon-hotlk
+fanyi.baidu.com##span.icon-new.new-icon-btn
+fanyi.baidu.com##.download-guide
+fanyi.baidu.com##.list-container
+fanyi.baidu.com##div.first-tip
+fanyi.baidu.com##a.sideQrContainer
+fanyi.baidu.com##div.domain-trans-tip
+fanyi.qq.com##div.textpanel-banner
+fanyi.qq.com##.dict-banner
+fanyi.qq.com##.rightLayer, .ani-small
+fanyi.qq.com##.header-download-btn, .material-design
+dict.cn##.idxRightBanc
+dict.cn###header > div.nav:nth-child(2) > div.links > div.top-download:last-child > a
+dict.cn##.idxRightBanClose
+dict.cn##.hot-words
+fanyi.dict.cn###main > div.fanyi:first-child > div:nth-child(2) > div
+fanyi.sogou.com##div.products
+fanyi.sogou.com###J_download_app
+fanyi.sogou.com##i.tag.authority
+fanyi.caiyunapp.com##div.banner
+fanyi.caiyunapp.com##div.foot-container.Chinese
+fanyi.caiyunapp.com##div.doc__upload--tip.Chinese
+yeekit.com###header_banner
+site.ip138.com###link
+military.china.com###mod-box
+book.sina.com.cn##i.icons-hot
+book.sina.com.cn##i.icon
+zhihu.com##.ad-top-2, .ad
