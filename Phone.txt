@@ -1,6 +1,6 @@
 ! Title: PureRules-Phone
-! Last modified: 26 April 2020 03:12 UTC
-! Homepage: https://github.com/PureMaster/PureRules
+! Last modified: 26 July 2020 08:14 UTC
+! Homepage: https://github.com/dongsinuo/PureRules
 !
 baidu.com##div.callicon-wrap
 baidu.com##div#login-wraps
@@ -230,6 +230,7 @@ sogou.com##div.query-flex
 sogou.com##DIV[class='img-flex person-layout layout-arrow border-top js_baitianyuEducationAppBanner']
 wenwen.sogou.com##div.sgww-xcx
 bing.com##div#BottomAppPro.BottomAppPro
+bing.com###BottomAppPro
 chinaso.com##div.w-container-bottom
 chinaso.com##div.w-weather
 chinaso.com##div.chinaso_weixin
