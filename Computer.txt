@@ -1,6 +1,6 @@
 ! Title: PureRules-Computer
-! Last modified: 22 April 2020 09:24 UTC
-! Homepage: https://github.com/PureMaster/PureRules
+! Last modified: 26 July 2020 08:28 UTC
+! Homepage: https://github.com/dongsinuo/PureRules
 !
 so.com###res_news_flow
 so.com###mohe-softbox
@@ -178,6 +178,8 @@ wenku.so.com##div.rec-left.hide
 wenku.so.com##.f-list-wrap
 wenku.so.com##.h2
 fanyi.so.com###card_container
+fanyi.so.com##.left-top-ad
+fanyi.so.com##.right-bottom-ad
 tianqi.so.com###news-side
 tianqi.so.com##div.weather-news
 tianqi.so.com##li.nav-item.curr
@@ -286,6 +288,10 @@ bing.com##div#b_pole
 bing.com##.ads_dwn, .top_ad
 bing.com###ads_banner > img.rms_img
 bing.com###bnp_hfly
+bing.com###b_notificationContainer_bop
+bing.com###bnp_hfly
+bing.com###shBingAppQR
+outlook.live.com##._3zQI3WiOC__cGoCqhRmdWG
 ecosia.org##.mainline-top
 ecosia.org##.install-popup
 ecosia.org##.btn, .btn-primary, .js-activate-install-box
@@ -343,3 +349,12 @@ military.china.com###mod-box
 book.sina.com.cn##i.icons-hot
 book.sina.com.cn##i.icon
 zhihu.com##.ad-top-2, .ad
+china.com###plugin-newspush
+china.com###js-news-hot
+tianqi.2345.com##div.ads-right
+tianqi.2345.com##div#js_qrCode.qr-code
+tianqi.2345.com##a.collection
+tianqi.2345.com##div#js_qrCodeDay7.box-mod-th-qrcode
+tianqi.2345.com##li.weteorological-qr-code
+tianqi.2345.com##div.net-qrcode-box
+tianqi.2345.com##div.dl-code-box
