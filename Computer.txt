@@ -204,6 +204,11 @@ guoxue.baike.so.com##div.right
 360kan.com##div#js-eb-rightbottomad.eb-rightbottomad
 360kan.com##div#js-eb-bottomad.eb-panel
 360kan.com##.b-holidayspec, .b-holidayspec-top, .js-holidayspec-top
+v.360kan.com###js-m-todayhot
+v.360kan.com##.m-todayhot-refresh, .js-m-todayhot-refresh
+v.360kan.com##div.g-wrap.g-clear:nth-child(5) > div.p-right:nth-child(2)
+v.360kan.com##.cat_left, .cat_left_fixed, .js-catLeft, .index
+v.360kan.com##.b-download
 wenku.cyjzzd.com##.mod-bot-flow, .hide, .js-mod-flow
 wenku.cyjzzd.com###js-fixed-rt
 wenku.cyjzzd.com###rt-flow
@@ -344,6 +349,7 @@ fanyi.caiyunapp.com##div.banner
 fanyi.caiyunapp.com##div.foot-container.Chinese
 fanyi.caiyunapp.com##div.doc__upload--tip.Chinese
 yeekit.com###header_banner
+menksoft.com###google
 site.ip138.com###link
 military.china.com###mod-box
 book.sina.com.cn##i.icons-hot
@@ -351,10 +357,3 @@ book.sina.com.cn##i.icon
 zhihu.com##.ad-top-2, .ad
 china.com###plugin-newspush
 china.com###js-news-hot
-tianqi.2345.com##div.ads-right
-tianqi.2345.com##div#js_qrCode.qr-code
-tianqi.2345.com##a.collection
-tianqi.2345.com##div#js_qrCodeDay7.box-mod-th-qrcode
-tianqi.2345.com##li.weteorological-qr-code
-tianqi.2345.com##div.net-qrcode-box
-tianqi.2345.com##div.dl-code-box
