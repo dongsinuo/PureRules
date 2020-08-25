@@ -31,6 +31,8 @@ so.com##.inline-recommend
 so.com###mohe-360pic_ext--normal
 so.com##span.icon
 so.com##.js-mod-recommond-center
+so.com###news-sdk-sad
+so.com##div.mh-info-links.gclearfix.js-mh-info
 wenda.so.com##.mod-recommond, .js-mod-recommond
 wenda.so.com##.mod-bot-flow, .hide, .js-mod-flow
 wenda.so.com##.bottom-fixed
@@ -377,3 +379,5 @@ book.sina.com.cn##i.icon
 zhihu.com##.ad-top-2, .ad
 china.com###plugin-newspush
 china.com###js-news-hot
+china.com###chan_wntj
+china.com##.epbWrap
