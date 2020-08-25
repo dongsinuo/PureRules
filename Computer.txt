@@ -312,6 +312,7 @@ sohu.com##.groom-read
 sohu.com###articleAllsee
 sohu.com###hot-news
 163.com##.ns_side_qrcode
+dy.163.com###fk__wrap
 news.163.com##.newsapp-qrcode
 news.163.com##.post_recommend
 mini.eastday.com##.swiper-slide-1, .swiper-slide
@@ -373,7 +374,9 @@ fanyi.caiyunapp.com##div.doc__upload--tip.Chinese
 yeekit.com###header_banner
 menksoft.com###google
 site.ip138.com###link
-military.china.com###mod-box
+news.sina.com.cn###tab_related
+news.sina.com.cn##div.blk-wxfollow.clearfix
+news.sina.com.cn##i.ani.pulse.infinite
 book.sina.com.cn##i.icons-hot
 book.sina.com.cn##i.icon
 zhihu.com##.ad-top-2, .ad
@@ -381,3 +384,4 @@ china.com###plugin-newspush
 china.com###js-news-hot
 china.com###chan_wntj
 china.com##.epbWrap
+china.com###mod-box
