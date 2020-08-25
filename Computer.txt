@@ -332,9 +332,23 @@ mini.yyrtv.com##i.nav-animation
 8181xw.com##.ad-bottomfixedwrap
 8181xw.com##.content-left
 8181xw.com##.content-right
+8181xw.com##.bottomflow
+8181xw.com##.see-more
+8181xw.com##i.nav-animation
 8181xw.com##.banner-module
 8181xw.com###nav > div.left-nav > ul:last-child
 8181xw.com##.flowtop
+8181zx.com##.bottomSuspension
+8181zx.com##.baidu
+8181zx.com##.ad-bottomfixedwrap
+8181zx.com##.content-left
+8181zx.com##.content-right
+8181zx.com##.bottomflow
+8181zx.com##.see-more
+8181zx.com##i.nav-animation
+8181zx.com##.banner-module
+8181zx.com###nav > div.left-nav > ul:last-child
+8181zx.com##.flowtop
 iciba.com##i.common-top-nav-hot
 iciba.com##.ad-sign
 iciba.com##.sentence
