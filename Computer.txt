@@ -312,6 +312,26 @@ sohu.com###hot-news
 163.com##.ns_side_qrcode
 news.163.com##.newsapp-qrcode
 news.163.com##.post_recommend
+mini.eastday.com##.swiper-slide-1, .swiper-slide
+mini.eastday.com##li.red-point
+mini.eastday.com##span.red_point
+mini.eastday.com##.tips-pop
+mini.yyrtv.com##.bottomSuspension
+mini.yyrtv.com##.baidu
+mini.yyrtv.com##.ad-bottomfixedwrap
+mini.yyrtv.com##.content-left
+mini.yyrtv.com##.content-right
+mini.yyrtv.com##.bottomflow
+mini.yyrtv.com##.see-more
+mini.yyrtv.com##i.nav-animation
+8181xw.com##.bottomSuspension
+8181xw.com##.baidu
+8181xw.com##.ad-bottomfixedwrap
+8181xw.com##.content-left
+8181xw.com##.content-right
+8181xw.com##.banner-module
+8181xw.com###nav > div.left-nav > ul:last-child
+8181xw.com##.flowtop
 iciba.com##i.common-top-nav-hot
 iciba.com##.ad-sign
 iciba.com##.sentence
