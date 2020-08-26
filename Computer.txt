@@ -426,3 +426,11 @@ download.zol.com.cn##.down-btn
 download.zol.com.cn###bottom-news-list
 download.zol.com.cn##.bottom-news-title
 download.zol.com.cn##div.wrapper.clearfix.top-online-mol:nth-child(7)
+pc.qq.com##.mod1
+pc.qq.com##.mod2
+pc.qq.com##.part3
+pc.qq.com##.part4
+pc.qq.com##.btn-download-cat
+pc.qq.com##.btn-download-recom
+pc.qq.com##.btn01, .J_qq_download
+pc.qq.com##.btn-download, .J_qq_download
