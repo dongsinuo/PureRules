@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/dongsinuo/PureRules
 !
 so.com###res_news_flow
-so.com###mohe-softbox
 so.com###so-360finance
 so.com##div#news-card
 so.com###bd_tabnav > nav.skin-text.skin-text-tab:first-child > a:first-child
@@ -33,6 +32,11 @@ so.com##span.icon
 so.com##.js-mod-recommond-center
 so.com###news-sdk-sad
 so.com##div.mh-info-links.gclearfix.js-mh-info
+so.com##.mh-download
+so.com##.mh-downloads
+so.com###mohe-360pic_new_ext--normal2
+so.com###mohe-softbox_pc_middle_ranklist
+www.so.com###e_map_idea
 wenda.so.com##.mod-recommond, .js-mod-recommond
 wenda.so.com##.mod-bot-flow, .hide, .js-mod-flow
 wenda.so.com##.bottom-fixed
@@ -51,6 +55,41 @@ news.so.com###open_left_flow > div.info-msg-tip:first-child > svg > g:last-child
 news.so.com##.js-multi-i-item, .cui-i-rt-txt, .i-item-lm
 news.so.com##.weather-calendar-wrapper
 news.so.com###bd_related
+360kuai.com##.side-wrapper
+360kuai.com##.modal__wrapper
+360kuai.com##div.article__top_window_ad
+360kuai.com##section.aside.content__block
+360kuai.com##section.aside.recommend.content__block
+mini.yyrtv.com##.bottomSuspension
+mini.yyrtv.com##.baidu
+mini.yyrtv.com##.ad-bottomfixedwrap
+mini.yyrtv.com##.content-left
+mini.yyrtv.com##.content-right
+mini.yyrtv.com##.bottomflow
+mini.yyrtv.com##.see-more
+mini.yyrtv.com##i.nav-animation
+8181xw.com##.bottomSuspension
+8181xw.com##.baidu
+8181xw.com##.ad-bottomfixedwrap
+8181xw.com##.content-left
+8181xw.com##.content-right
+8181xw.com##.bottomflow
+8181xw.com##.see-more
+8181xw.com##i.nav-animation
+8181xw.com##.banner-module
+8181xw.com###nav > div.left-nav > ul:last-child
+8181xw.com##.flowtop
+8181zx.com##.bottomSuspension
+8181zx.com##.baidu
+8181zx.com##.ad-bottomfixedwrap
+8181zx.com##.content-left
+8181zx.com##.content-right
+8181zx.com##.bottomflow
+8181zx.com##.see-more
+8181zx.com##i.nav-animation
+8181zx.com##.banner-module
+8181zx.com###nav > div.left-nav > ul:last-child
+8181zx.com##.flowtop
 image.so.com###starlist > div.vertical > ul.section:nth-child(3) > li.cell > div.item > a
 image.so.com###starlist > div.vertical > ul.section:nth-child(4) > li.cell > div.item > a
 image.so.com###starlist > div.vertical > ul.section:last-child > li.cell > div.item > a
@@ -179,6 +218,12 @@ wenku.so.com##div.side-mod
 wenku.so.com##div.rec-left.hide
 wenku.so.com##.f-list-wrap
 wenku.so.com##.h2
+wenku.so.com###js-left-interest
+wenku.so.com###js-search-one
+wenku.cyjzzd.com##.mod-bot-flow, .hide, .js-mod-flow
+wenku.cyjzzd.com###js-fixed-rt
+wenku.cyjzzd.com###rt-flow
+wenku.cyjzzd.com##.wk-mod-det
 fanyi.so.com###card_container
 fanyi.so.com##.left-top-ad
 fanyi.so.com##.right-bottom-ad
@@ -193,11 +238,6 @@ xinzhi.wenda.so.com##div.busi-article
 guoxue.baike.so.com##div#J-entry-newsfeed-bottom.mod-common
 guoxue.baike.so.com##div#js-doc-recommand.mod-recommend
 guoxue.baike.so.com##div.right
-360kuai.com##.side-wrapper
-360kuai.com##.modal__wrapper
-360kuai.com##div.article__top_window_ad
-360kuai.com##section.aside.content__block
-360kuai.com##section.aside.recommend.content__block
 360kan.com##div.c-body.g-clear
 360kan.com##div.eb-sidefeedback2-item.eb-sidefeedback2-item-msg.js-msg
 360kan.com##a.btn.btn-sj
@@ -211,10 +251,20 @@ v.360kan.com##.m-todayhot-refresh, .js-m-todayhot-refresh
 v.360kan.com##div.g-wrap.g-clear:nth-child(5) > div.p-right:nth-child(2)
 v.360kan.com##.cat_left, .cat_left_fixed, .js-catLeft, .index
 v.360kan.com##.b-download
-wenku.cyjzzd.com##.mod-bot-flow, .hide, .js-mod-flow
-wenku.cyjzzd.com###js-fixed-rt
-wenku.cyjzzd.com###rt-flow
-wenku.cyjzzd.com##.wk-mod-det
+baoku.360.cn##h2.h2-title
+baoku.360.cn##h2.h2-title
+baoku.360.cn##p.table-desc
+baoku.360.cn##div.btn-container.clearfix
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > tr:last-child
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > :nth-child(2)
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > :nth-child(3)
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > :nth-child(4)
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > :nth-child(5)
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > :nth-child(6)
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > tr:first-child > th:last-child
+baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > tr:first-child > th:nth-child(2)
+baoku.360.cn##.js-btn-download, .install-btn
+soft.so.com##.btn, .btn-1, .js-dl-btn
 baidu.com##div.qrcodeCon
 baidu.com###virus-2020 > <pseudo:before>
 baidu.com###setf
@@ -319,36 +369,6 @@ mini.eastday.com##.swiper-slide-1, .swiper-slide
 mini.eastday.com##li.red-point
 mini.eastday.com##span.red_point
 mini.eastday.com##.tips-pop
-mini.yyrtv.com##.bottomSuspension
-mini.yyrtv.com##.baidu
-mini.yyrtv.com##.ad-bottomfixedwrap
-mini.yyrtv.com##.content-left
-mini.yyrtv.com##.content-right
-mini.yyrtv.com##.bottomflow
-mini.yyrtv.com##.see-more
-mini.yyrtv.com##i.nav-animation
-8181xw.com##.bottomSuspension
-8181xw.com##.baidu
-8181xw.com##.ad-bottomfixedwrap
-8181xw.com##.content-left
-8181xw.com##.content-right
-8181xw.com##.bottomflow
-8181xw.com##.see-more
-8181xw.com##i.nav-animation
-8181xw.com##.banner-module
-8181xw.com###nav > div.left-nav > ul:last-child
-8181xw.com##.flowtop
-8181zx.com##.bottomSuspension
-8181zx.com##.baidu
-8181zx.com##.ad-bottomfixedwrap
-8181zx.com##.content-left
-8181zx.com##.content-right
-8181zx.com##.bottomflow
-8181zx.com##.see-more
-8181zx.com##i.nav-animation
-8181zx.com##.banner-module
-8181zx.com###nav > div.left-nav > ul:last-child
-8181zx.com##.flowtop
 iciba.com##i.common-top-nav-hot
 iciba.com##.ad-sign
 iciba.com##.sentence
