@@ -36,7 +36,9 @@ so.com##.mh-download
 so.com##.mh-downloads
 so.com###mohe-360pic_new_ext--normal2
 so.com###mohe-softbox_pc_middle_ranklist
+so.com###mohe-softbox_ios > div.soft-info-wrap.gclearfix:last-child > div.mh-float-left > div.soft-down:last-child > a.g-btn.g-btn-green:last-child
 www.so.com###e_map_idea
+www.so.com##.mh-map_relate-search
 wenda.so.com##.mod-recommond, .js-mod-recommond
 wenda.so.com##.mod-bot-flow, .hide, .js-mod-flow
 wenda.so.com##.bottom-fixed
@@ -419,3 +421,8 @@ china.com###js-news-hot
 china.com###chan_wntj
 china.com##.epbWrap
 china.com###mod-box
+download.zol.com.cn##.g-br3, .g-bg11
+download.zol.com.cn##.down-btn
+download.zol.com.cn###bottom-news-list
+download.zol.com.cn##.bottom-news-title
+download.zol.com.cn##div.wrapper.clearfix.top-online-mol:nth-child(7)
