@@ -37,6 +37,7 @@ so.com##.mh-downloads
 so.com###mohe-360pic_new_ext--normal2
 so.com###mohe-softbox_pc_middle_ranklist
 so.com###mohe-softbox
+so.com###mohe-biu_hl_huajun
 www.so.com###e_map_idea
 www.so.com##.mh-map_relate-search
 wenda.so.com##.mod-recommond, .js-mod-recommond
