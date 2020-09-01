@@ -389,6 +389,17 @@ mini.eastday.com##.swiper-slide-1, .swiper-slide
 mini.eastday.com##li.red-point
 mini.eastday.com##span.red_point
 mini.eastday.com##.tips-pop
+mini.eastday.com###recommend_ad_hot
+mini.eastday.com###recommend_ad_hot0
+mini.eastday.com###recommend_ad_hot1
+mini.eastday.com###recommend_ad_hot2
+mini.eastday.com###recommend_ad_hot3
+mini.eastday.com###recommend_ad_hot4
+mini.eastday.com###recommend_ad_hot5
+mini.eastday.com###recommend_ad_hot6
+mini.eastday.com###recommend_ad_hot7
+mini.eastday.com###recommend_ad_hot8
+mini.eastday.com###recommend_ad_hot9
 iciba.com##i.common-top-nav-hot
 iciba.com##.ad-sign
 iciba.com##.sentence
