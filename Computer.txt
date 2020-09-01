@@ -38,6 +38,8 @@ so.com###mohe-360pic_new_ext--normal2
 so.com###mohe-softbox_pc_middle_ranklist
 so.com###mohe-softbox
 so.com###mohe-biu_hl_huajun
+so.com###mohe-biu_hl_5119
+so.com###mohe-news_more
 www.so.com###e_map_idea
 www.so.com##.mh-map_relate-search
 wenda.so.com##.mod-recommond, .js-mod-recommond
@@ -58,6 +60,21 @@ news.so.com###open_left_flow > div.info-msg-tip:first-child > svg > g:last-child
 news.so.com##.js-multi-i-item, .cui-i-rt-txt, .i-item-lm
 news.so.com##.weather-calendar-wrapper
 news.so.com###bd_related
+kch.so.com##.lianmeng-ad
+miiyun.cn##.links
+miiyun.cn##.downbtn
+miiyun.cn##.pull-right
+miiyun.cn###m_rjjs > table:nth-child(0)
+miiyun.cn###m_rjjs > table:nth-child(1)
+miiyun.cn###m_rjjs > table:nth-child(2)
+miiyun.cn###m_rjjs > table:nth-child(3)
+miiyun.cn###m_rjjs > table:nth-child(4)
+miiyun.cn###m_rjjs > table:nth-child(5)
+miiyun.cn###m_rjjs > table:nth-child(6)
+miiyun.cn###m_rjjs > table:nth-child(7)
+miiyun.cn###m_rjjs > table:nth-child(8)
+miiyun.cn###m_rjjs > table:nth-child(9)
+miiyun.cn###down > div.cont:last-child > div.XZDZitem.cur.clearfix > div.downDz:first-child
 360kuai.com##.side-wrapper
 360kuai.com##.modal__wrapper
 360kuai.com##div.article__top_window_ad
@@ -427,6 +444,9 @@ download.zol.com.cn##.down-btn
 download.zol.com.cn###bottom-news-list
 download.zol.com.cn##.bottom-news-title
 download.zol.com.cn##div.wrapper.clearfix.top-online-mol:nth-child(7)
+downza.cn##.down_soft_bottom
+downza.cn###xzqIMG1
+downza.cn##.links
 pc.qq.com##.mod1
 pc.qq.com##.mod2
 pc.qq.com##.part3
