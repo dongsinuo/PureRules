@@ -271,6 +271,8 @@ v.360kan.com##.m-todayhot-refresh, .js-m-todayhot-refresh
 v.360kan.com##div.g-wrap.g-clear:nth-child(5) > div.p-right:nth-child(2)
 v.360kan.com##.cat_left, .cat_left_fixed, .js-catLeft, .index
 v.360kan.com##.b-download
+v.360kan.com##.m-videoadstatic, .js-videoadstatic
+v.360kan.com##.m-videoadfrontstatic, .js-videoadfrontstatic
 baoku.360.cn##h2.h2-title
 baoku.360.cn##h2.h2-title
 baoku.360.cn##p.table-desc
@@ -291,6 +293,8 @@ baidu.com###setf
 baidu.com###u1 > a.mnav:nth-child(3)
 baidu.com###head > div.s-top-left.s-isindex-wrap:nth-child(3) > a.mnav.c-font-normal.c-color-t:nth-child(2)
 baidu.com###content > h3.new:first-child > sup
+baidu.com###s_qrcode_nologin
+baidu.com###s-hotsearch-wrapper
 zhidao.baidu.com##button.task-list-button
 zhidao.baidu.com##span.new-icon
 zhidao.baidu.com##li.menu-right-list-item.zhidao-app
@@ -400,6 +404,7 @@ mini.eastday.com###recommend_ad_hot6
 mini.eastday.com###recommend_ad_hot7
 mini.eastday.com###recommend_ad_hot8
 mini.eastday.com###recommend_ad_hot9
+mini.eastday.com###dsp_yxxf
 iciba.com##i.common-top-nav-hot
 iciba.com##.ad-sign
 iciba.com##.sentence
