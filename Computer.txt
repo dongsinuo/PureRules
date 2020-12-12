@@ -352,9 +352,6 @@ sogou.com##span.new
 sa.sogou.com##.rd-csr__wrapper
 pic.sogou.com##div#hint.side-module.side-hint
 news.sogou.com###hint_container
-mijisou.com##div#sidebar_results.col-sm-4
-dogedoge.com##.tag-home__item
-dogedoge.com##.js-results-ads
 bing.com###dict_ans > div.b_vPanel:first-child > div:last-child
 bing.com##a.bottomTipContainer.b_cards
 bing.com##li.b_ans.b_top.b_topborder
