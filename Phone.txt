@@ -231,9 +231,6 @@ sogou.com##DIV[class='img-flex person-layout layout-arrow border-top js_baitiany
 wenwen.sogou.com##div.sgww-xcx
 bing.com##div#BottomAppPro.BottomAppPro
 bing.com###BottomAppPro
-chinaso.com##div.w-container-bottom
-chinaso.com##div.w-weather
-chinaso.com##div.chinaso_weixin
 sm.cn##div.r-wrap
 mijisou.com##div#sidebar_results.col-sm-4
 dogedoge.com##.tag-home__item
