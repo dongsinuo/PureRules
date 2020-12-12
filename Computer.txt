@@ -352,13 +352,6 @@ sogou.com##span.new
 sa.sogou.com##.rd-csr__wrapper
 pic.sogou.com##div#hint.side-module.side-hint
 news.sogou.com###hint_container
-chinaso.com##div#chinaso_weather
-chinaso.com##div.special_left
-chinaso.com##div.special_right
-chinaso.com##div.chinaso_app_ewm
-chinaso.com##span#nav_123_link
-chinaso.com##div.indexMain:first-child > div.chinaso-search-box:nth-child(5) > div.mPart:last-child
-chinaso.com##div.nav_box
 mijisou.com##div#sidebar_results.col-sm-4
 dogedoge.com##.tag-home__item
 dogedoge.com##.js-results-ads
