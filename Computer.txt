@@ -303,6 +303,17 @@ baoku.360.cn##div.main-container:nth-child(2) > table.table-container > tbody > 
 baoku.360.cn##.js-btn-download, .install-btn
 soft.so.com##.btn, .btn-1, .js-dl-btn
 i.360.cn##.jifen-fuli
+licai.360.cn###information-floor
+hao.360.com##.feed-content
+hao.360.cn##.left-side
+hao.360.cn##.hot-word
+hao.360.cn##.ads-goods
+hao.360.cn###special-column
+hao.360.com##.aside
+hao.360.com###iframe-content
+hao.360.com##div.header:first-child > div.other-nav.gclearfix:last-child > ul.wrap1.gclearfix:first-child > img:last-child
+hao.360.com##.so-hotword-wrap
+licai.360.cn###doc-hd > div.nav:last-child > div.container > ul.clearfix > li:nth-child(3) > a > img
 baidu.com##div.qrcodeCon
 baidu.com###virus-2020 > <pseudo:before>
 baidu.com###setf
@@ -325,6 +336,13 @@ wenku.baidu.com##span.ui-bz-hot-ic
 wenku.baidu.com##div.zsj-toppos
 wenku.baidu.com##span.ic-vip
 wenku.baidu.com##div.coverImg
+wenku.baidu.com##.new-vip-card-position
+wenku.baidu.com##.ui-bz-btn-p-16
+wenku.baidu.com##div.app-btn-point
+wenku.baidu.com##i.red-spot
+wenku.baidu.com##.client-btn-wrap
+wenku.baidu.com##.tool-icon
+map.baidu.com###message-panel > a.message-banner:first-child
 tieba.baidu.com##li.tbui_aside_fbar_button.tbui_fbar_down
 tieba.baidu.com##div.region_bright.app_download_box
 tieba.baidu.com##div.aside_region.app_download_box
@@ -336,6 +354,8 @@ music.taihe.com##div.module.musician-hot-artist.clearfix
 music.taihe.com##div.panel-item.down-box.qr-box
 hao123.com##i.g_icon
 hao123.com##img.icon-new
+hao123.com##.hotsearchCon
+hao123.com###notice
 v.baidu.com##div.qrcode
 v.baidu.com##li.bt-mobile
 v.baidu.com##.pcidlepagepopup-xd-wrap
@@ -371,6 +391,32 @@ sogou.com##span.new
 sa.sogou.com##.rd-csr__wrapper
 pic.sogou.com##div#hint.side-module.side-hint
 news.sogou.com###hint_container
+pic.sogou.com###hintInfo
+baike.sogou.com###side-adv-wrap
+baike.sogou.com##.top_adv_wrap
+baike.sogou.com###main > div.main_nav:first-child > ul > li.nav_user:last-child > a > i.ico-corn:last-child
+baike.sogou.com##.popularize_ad
+fanyi.sogou.com##.img-box
+123.sogou.com###info_flow_coolsite
+123.sogou.com###infoFlow
+123.sogou.com##div.m-body:nth-child(4) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-5:nth-child(4)
+123.sogou.com##div.m-body:nth-child(4) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-9:last-child
+123.sogou.com##div.m-body:nth-child(4) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-3:nth-child(3)
+123.sogou.com##.hot-wd
+123.sogou.com##div.m-upper:nth-child(2)
+123.sogou.com##div.m-body:nth-child(4) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-7:nth-child(3)
+123.sogou.com##div.m-body:nth-child(4) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-6:nth-child(2)
+123.sogou.com##div.m-body:nth-child(4) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-10:nth-child(4)
+hao.qq.com##.style_infoFlowCoolsite__3qAHc
+hao.qq.com##div.m-body:nth-child(5) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-5:nth-child(4)
+hao.qq.com##div.m-body:nth-child(5) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-3:nth-child(3)
+hao.qq.com###infoFlow
+hao.qq.com##.tri-button
+hao.qq.com##div.m-body:nth-child(5) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-9:last-child
+hao.qq.com##div.m-body:nth-child(5) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-10:nth-child(4)
+hao.qq.com##div.m-body:nth-child(5) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-7:nth-child(3)
+hao.qq.com##div.m-body:nth-child(5) > div.wp.cf:nth-child(5) > div.sidebar:first-child > div.m-3.m:last-child > div.row.m-3-6:nth-child(2)
+hao.qq.com##div.m-upper:nth-child(3)
 bing.com###dict_ans > div.b_vPanel:first-child > div:last-child
 bing.com##a.bottomTipContainer.b_cards
 bing.com##li.b_ans.b_top.b_topborder
@@ -465,6 +511,7 @@ china.com###js-news-hot
 china.com###chan_wntj
 china.com##.epbWrap
 china.com###mod-box
+china.com###popup-news
 download.zol.com.cn##.g-br3, .g-bg11
 download.zol.com.cn##.down-btn
 download.zol.com.cn###bottom-news-list
@@ -481,6 +528,24 @@ pc.qq.com##.btn-download-cat
 pc.qq.com##.btn-download-recom
 pc.qq.com##.btn01, .J_qq_download
 pc.qq.com##.btn-download, .J_qq_download
+duba.com##.hot_link, .jq_hot_link
+duba.com###wrapper > div.mainbg:nth-child(2) > div.m_search_bar:nth-child(2) > div.search_wrap.jq_search_wrap > div.search_inner > div.notice.jq_notice.J_w_stats.J_notice.operate:first-child
+duba.com##.m_guess_like
+duba.com###m_hot_rec_main > div.m_hot_rec_box_base.m_rec_hot.top_corner.no_bottom_border:first-child
+duba.com###m_hot_rec_main > div.m_hot_rec_box_base.m_rec_game.no_bottom_border:nth-child(2)
+duba.com###m_hot_rec_main > div.m_hot_rec_box_base.no_bottom_border:nth-child(8)
+duba.com###m_hot_rec_main > div.m_hot_rec_box_base.no_bottom_border:last-child
+duba.com###wrapper > div.mainbg:nth-child(2) > div.m_header_top:first-child > div.top_warp > div.top_logo > div:last-child
+zhihu.com##.AppBanner-link
+2345.com###map_topNews
+2345.com###ylbBannerWrap
+2345.com###J_entertainChannel
+2345.com###J_gameChannel
+2345.com###map_news
+2345.com###map_webgame
+2345.com###search-hot-word
+2345.com##.top_left
+2345.com##.ipop
 ! douyu.com
 *.ourdvsss.com/live?msg=getpeer
 *api.galaxyclouds.cn/p2p
